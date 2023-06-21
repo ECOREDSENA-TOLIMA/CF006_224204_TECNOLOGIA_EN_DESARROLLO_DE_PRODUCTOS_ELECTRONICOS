@@ -250,7 +250,7 @@
       
       .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-down-right")
         h5 Tabla 1.
-        span Normatividad en la ampliación de imágenes
+        span <em>Normatividad en la ampliación de imágenes</em>
       .row.mb-5.justify-content-center(data-aos="flip-right")
         .col-12.col-md-10
           .tabla-b.bgr_6.mb-5
