@@ -112,7 +112,7 @@
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/tema3/t3-9.svg', alt='Texto que describa la imagen')
-            .tarjeta.color-acento-botones.p-4(x="15%" y="76%" numero="+")
+            .tarjeta.color-acento-botones.p-4.md-6(x="15%" y="76%" numero="+")
               .pst_4
               p En la <b>zona de precalentamiento</b> es donde la tarjeta, como su nombre lo indica, empieza un precalentamiento. Allí puede pasar de la temperatura ambiente a aproximadamente 100°C.
               p Esto es un promedio cada perfil, ya que puede variar de acuerdo con la densidad de los componentes, el tipo de soldadura y hasta el diseño.
