@@ -196,7 +196,7 @@ export default {
     {
       tema: 'Perfiles de temperatura del proceso de reflujo',
       referencia:
-        'Microensamble. (2016c). <em>Perfil de temperatura para circuitos impresos.</em>',
+        'Microensamble. (2016c). ¿Qué es un perfil de temperatura para ensamble de circuitos impresos?',
       tipo: 'Sitio web',
       link:
         'https://microensamble.com/perfil-de-temperatura-circuitos-impresos/',
@@ -256,12 +256,14 @@ export default {
     {
       referencia:
         'Microensamble. (2016b). Los intermetálicos en una soldadura, ¿una pesadilla?',
-      link: 'http://microensamble.com/',
+      link:
+        'http://microensamble.com/los-intermetalicos-una-soldadura-una-pesadilla/',
     },
     {
       referencia:
         'Microensamble. (2016d). Precauciones con la mezcla de soldaduras normal con libre de plomo.',
-      link: 'http://microensamble.com/',
+      link:
+        'http://microensamble.com/precauciones-la-mezcla-soldadura-normal-libre-plomo/',
     },
     {
       referencia:
@@ -277,7 +279,7 @@ export default {
     },
     {
       referencia:
-        'Stakhniak, Y. (2012). <em>Choosing a soldering station. ToolBoom</em>',
+        'Stakhniak, Y. (2012). <em>How to Choose a Soldering Station.</em>',
       link:
         'https://toolboom.com/en/articles-and-video/how-to-choose-a-soldering-station/',
     },
@@ -313,40 +315,42 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ángela Rocío Sánchez Ruiz',
-          cargo: 'Experto Temático',
-          centro: 'Centro de Electricidad, Electrónica y Telecomunicaciones',
-        },
-        {
-          nombre: 'Miroslava González H.',
-          cargo: 'Diseñador y Evaluador Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Juan Gilberto Giraldo Cortés',
-          cargo: 'Diseñador Instruccional',
-          centro: '',
-        },
-        {
-          nombre: 'Álix Cecilia Chinchilla Rueda',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Viviana Esperanza Herrera Quiñones',
-          cargo: 'Asesora Metodológica',
-          centro: 'Centro de Comercio y Servicios',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano',
-          cargo: 'Asesor Pedagógico',
+          nombre: 'Ángela Rocío Sánchez Ruiz ',
+          cargo: 'Experto Técnico ',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Distrito Capital Centro de Electricidad,  Electrónica y Telecomunicaciones.',
         },
         {
-          nombre: 'Darío González',
-          cargo: 'Revisión y Corrección de Estilo',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          nombre: 'Miroslava González Hernández ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial.',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Córtes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus ',
+          cargo: 'Revisora Metodológica y Pedagógica ',
+          centro:
+            'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica.',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
+          cargo: 'Asesor Pedagógico ',
+          centro:
+            'Regional Santander Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Darío González ',
+          cargo: 'Corrección de Estilo ',
+          centro: 'Regional Tolima Centro Agropecuario La Granja',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -354,12 +358,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'José Jaime Luis Tang',
+          nombre: 'José Jaime Luis Tang Pinzón',
           cargo: 'Diseñador Web',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Francisco José Vásquez Suárez',
+          nombre: 'Francisco Javier Vásquez Suárez',
           cargo: 'Desarrollador Fullstack',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
@@ -370,11 +374,16 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Animador y Producción Audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Sebastián Trujillo Afanador',
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oscar Iván Uribe Ortiz',
           cargo: 'Actividad Didáctica',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
